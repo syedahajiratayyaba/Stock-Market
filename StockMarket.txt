@@ -1,1 +1,23 @@
 Problem Statement: Stock Market page automation
+Code with comments:
+import java.io.*;
+
+import org.openqa.selenium.WebDriver;
+public class StockMarketPrg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//System.setProperty("", "");
+		WebDrivaer driver=new WebDriver();
+				
+		driver.findElement(By.X"");
+		
+		System.out.println("Hello");
+
+	}
+
+}
+
+Explanation of the code:
+1.Initialize the chrome browsaer
+2.Identify the web elements 
